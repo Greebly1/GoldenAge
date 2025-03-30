@@ -45,10 +45,10 @@ NJ is soft spoken, and never interrupts people. It is actually impossible for he
 Unfortunately, it is hard to help humans, when you look like that. Scary.
 
 **Sexuality** - N/A
-	Due to, several curses, NJ cannot have intercourse. She is a virgin and will unfortunately die that way. It doesn't really matter though, she can't even get horny, it is not possible. This is one of the things she is often envious of normal people. However, this does not stop her from having romantic feelings.
+	Due to, several curses, NJ cannot have intercourse. She is a virgin and will unfortunately die that way. This is one of the things she is often envious of normal people. However, this does not stop her from having purely romantic relationships.
 
 **Goals** - Collect all curses
-	Nightjar's goal is to collect all the curses from the world. If she can be the sponge that soaks up the evil from the world she can help the world in this way. It gives her a strange pleasure to gain a curse.
+	Nightjar's goal is to collect and destroy all the curses from the world. If she can be the sponge that soaks up the evil. It gives her a strange pleasure to gain a curse.
 	As her goal is to help the world, NJ is deeply entrenched in the philosophical thoughts on what curses are, and the nature of them. A curse can be so much more than some magic spell. A way of thinking, a memory, a feeling, a socioeconomic position, etc.
 	In a sense, NJ embodies the true spirit of a demon-slayer, however she herself is a demon.
 
@@ -64,7 +64,7 @@ Perfect black is actually a pneuma ability. This means she can actually 'see' sp
 
 # Curses
 Not in order
-- Can never orgasm or be aroused
+- Can never be aroused
 - Can never blink
 - Can never interject and interrupt others
 - Can never yell
@@ -74,12 +74,15 @@ Not in order
 - Cannot go out in the sunlight
 - Visual and auditory hallucinations
 - At least 6 poltergeists are imprinted on her
+Shit just fucking moves around her randomly.
 - Cats and dogs will never let her pet them
 - Can never smile
 - Shadow has a mind of its own
 - Can't taste food (also kind of a blessing)
 - Cannot see color
 - Has small tits (she used to have bigger tits before a curse)
+"That can't be a real curse."
+"It is, you would be surprised with how many people suffer from it."
 - Has no reflection
 - Always hungry never satiated
 - Several flesh warping curses
@@ -87,7 +90,7 @@ Not in order
 - General bad luck (actually a power she can count on being unlucky)
 - Does not remember name
 - Hunted by a slow moving immortal snail that kills her if it touches her.
-- She feels the pain she inflicts on others
+- She feels the pain she inflicts
 - Phantom limb syndrome
 - lactose intolerant
 - Gravity is doubled twice 
@@ -123,7 +126,7 @@ NJ is an ally of the phoenix warmages benala chapter. She often gives [[Cade Web
 NJ, is an enemy of the legion, however, they do not know this. The legion thinks she is an ally, since they both are enemies of the Magistum.
 
 # [[Nightjar's Hideout]]
-When she isn't investigating or scouring the city, Nightjar is at her hideout, her nest. 
+When she isn't investigating or scouring the city of [[Benala]], Nightjar is at her hideout, her nest. 
 
 #TODO where is it actually located? how to get to it?
 
@@ -141,17 +144,17 @@ Her philosophy is explored a bit in the aforementioned short story.
 Her ideas align with the study of Ontology https://en.wikipedia.org/wiki/Ontology. 
 
 A curse is anything that haunts someone. It can be a memory, a dependency, an ambition, loneliness, a relationship, the future. 
-All people are but a reflection of the world they have experienced, and what you see is but a reflection of your own judgements projecting onto that world.
+All people are but a reflection of the world they have experienced, and what you see as the world is but a reflection of your own judgements projecting onto that world.
 Think about what curses you suffer. Loneliness? Financial insecurity? Anxiety? Think about a bad memory that haunts you.
 Who would we be without these curses? What would we act like? How would we feel? What would we want? In all cases, whoever that person would be, is a different person than who we are.
 
 To change, means to commit violence upon yourself. Like a dying tree, dead branches need to be attended to, new branches must be grown, roots must spread.
+To Nightjar, life is but an endless cycle of constant death and rebirth. With every observation we make, with every action we make.
 
 The existence of curses serve to increase happiness by virtue of contrast. Rather, the memory of suffering serves to give meaning to happiness. 
 
 Nightjar notes how, those who have more curses, freed and broken, exhibit more strength and happiness than those who have never been cursed to begin with. 
-To Nightjar, life is but an endless cycle of constant death and rebirth. With every observation we make, with every action we make. 
 
-Furthermore, Nightjar notes how society as a whole operations like a single conscious. If you understand how stock prices are calculated, this is similar. Curses and negativity as a whole spread through society like a wave. One negative development causes a wave that travels through friends, coworkers, and acquaintances. Curses, beget more curses.
+Furthermore, Nightjar notes how society as a whole operates like a single conscious. If you understand how stock prices are calculated, this is similar. Curses and negativity as a whole spread through society like a wave. One negative development causes a wave that travels through friends, coworkers, and acquaintances, attenuating through a game of telephone. Curses, beget more curses.
 
-Despite all of this, Nightjar believes that all curse can be broken. And that the future can be saved by breaking all of the curses. People who would otherwise discard their humanity and become monsters, can instead become strong and kind humans. In a sense, Nightjar is a true demon slayer
+Despite all of this, Nightjar believes that all curses can be broken. And that the future can be saved by breaking all of the curses. People who would otherwise discard their humanity and become monsters, can instead become strong and kind. In a sense, Nightjar is a true demon slayer
