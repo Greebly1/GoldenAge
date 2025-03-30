@@ -1,7 +1,7 @@
 Mood Board --> [[Nightjar.pur]]
 Soundscape https://www.youtube.com/watch?v=jaUqnY8wNMU&list=PL7-dKuFSFO5GlB18rY01ArCBX4tLUfSWw
 
-One of the big 3 important characters
+One of the big 3 important characters of the [[Phoenix Lament]] story.
 ## Other Names
 	That Owl
 	Drinks Moonlight
@@ -14,11 +14,12 @@ There are chill winds in the night, refreshing. Where no eyes stare, freeing.
 The walls of the [[Samrita Claret]] are cold, and the building is asleep. At the peak of its tower you can glimpse her.
 A celestial, cold and all-seeing floats listlessly above the slumbering city, speckled by the twinkling hopes of dreamers. Its light falls on the nightmares that haunt. Its cold is a hot iron.
 It is this light she drinks. This refreshing wind, this quite, this peace, this beauty.
-Moonlight rests on her still form, a monster. The cool air rushing past rows of sharp teeth to fill her lungs. A maw that doesn't eat. Many eyes that never see. Fur, feathers, scales that never feel. Stiff, gangly wings outstretched. The tail, the talons, everything freed from the shadows that bind, now strewn about the floor.
+Moonlight rests on her still form, a monster. The cool air rushing past rows of sharp teeth to fill her lungs. A maw that doesn't eat. Many eyes that never blink. Fur, feathers, scales that never feel. Stiff, gangly wings outstretched. The tail, the talons, everything freed from the shadows that bind, now strewn about the floor.
 All of her eyes, massive and unblinking, stare at the moon.
 The Nightjar.
 
 # Appearance
+Standing at about 6"2'
 She hides her face under gray wraps and a large gaiter.
 	She wears a cylindrical priest hat (Moodboard --> Boogiepop) adorned with feathers and ornaments. 
 Her hair is black, and braided into many thin strands about shoulder length. The braids are also adorned with metal and feathers and terminate in silver ornaments. Her braids peek our from under the hat, and fall over the gaiter.
