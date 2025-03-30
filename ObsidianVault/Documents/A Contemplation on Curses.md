@@ -4,7 +4,7 @@ Soundscape --> https://www.youtube.com/watch?v=2N2EeZ3oWrw&list=PL7-dKuFSFO5GlB1
 
 Nightjar keeps a memento to this story in her hideout, a children's drawing of her.
 # Intro
-Nightjar has the ability to see curses, to see negativity. Her life's goal is to destroy all curses. One day while she is viewing the city from high up she is looking at the masses, the sad, the needy. Some people are just full of hate, or sadness, and they spread it around. The racists, the striking workers, the criminals. She wonders why, what causes some adults to be this way. 
+Nightjar has the ability to see curses, to see negativity. Her life's goal is to destroy all curses. One day while she is viewing the city from high up she is looking at the masses, the sad, the needy. Casinos and drug runners. Some people are just full of hate, or sadness, and they spread it around. The racists, the striking workers, the criminals. She wonders why, what causes some adults to be this way. 
 
 She turns her gaze to a schoolhouse letting out children. She observes intently, deeply. A few of the children are cursed, it is a faint almost invisible aura. Nightjar takes notice of one girl in particular.
 
@@ -71,3 +71,5 @@ Nightjar gives the house one last inspection before leaving. The daughter is asl
 "You have a bright future ahead of you now, I will be watching over you to see what you make of it."
 As she goes to leave, she notices a drawing. It is a child's drawing of her, the Nightjar. 
 Nightjar is extremely touched by this drawing, it is not only a memento to this project, but, it is one of the few times she gets to see what she looks like. She has no reflection and no real other way of seeing herself whenever she wants to. Although she knows she is a creepy grotesque monster. She takes the drawing back to her hideout.
+
+A key takeaway from the story is also that Nightjar is kind of weird.

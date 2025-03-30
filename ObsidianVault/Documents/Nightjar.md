@@ -33,10 +33,10 @@ Underneath her clothes, her skin is scaly, and furry, (moodboard --> Tobi-Kadach
 
 # Personality
 Nightjar is a rather introverted demon. She is extremely cautious. 
-She is the type of person who stays near the outskirts of a group meeting.
+She is the type who stays near the outskirts of a group meeting.
 Since Nightjar is a member of the [[Snake Eyes]], she is also a disciple of [[Denki]], the deity of envy. As a result NJ is a rather jealous person, although she hides it very very well. 
 
-But despite being so scary looking, NJ is an incredibly nice person. Any time NJ appears it is to help.
+But despite being so scary looking, NJ is a very kind person. Any time NJ appears it is to help.
 
 NJ is soft spoken, and never interrupts people. It is actually impossible for her to do so.
 
@@ -44,7 +44,7 @@ NJ is soft spoken, and never interrupts people. It is actually impossible for he
 	NJ is actually a very good demon despite being so grotesque. She does not prey on humans, only other demons. NJ has helped a lot of people, and continues to do so. Whether it be advice, information, money, or more, NJ can't stop from helping others.
 Unfortunately, it is hard to help humans, when you look like that. Scary.
 
-**Sexuality** - Attracted to tomboys only
+**Sexuality** - N/A
 	Due to, several curses, NJ cannot have intercourse. She is a virgin and will unfortunately die that way. It doesn't really matter though, she can't even get horny, it is not possible. This is one of the things she is often envious of normal people. However, this does not stop her from having romantic feelings.
 
 **Goals** - Collect all curses
@@ -56,7 +56,7 @@ Unfortunately, it is hard to help humans, when you look like that. Scary.
 # Ability - Perfect Black
 This ability gives nightjar the power to one-way transfer certain curses to herself. 
 
-Furthermore, Perfect Black can literally soak up corruption like a sponge.
+Furthermore, Perfect Black can soak up corruption like a sponge.
 	When she does this interestingly, it just makes places feel better.  graveyard she has visited will just not be scary.
 	She rarely uses this though, since she cannot hold onto an infinite amount of corruption. Instead she uses it as a way to move corruption from place to place. 
 
@@ -84,15 +84,14 @@ Not in order
 - Always hungry never satiated
 - Several flesh warping curses
 - Cannot laugh
-- Everything she grows attached to suffers
 - General bad luck (actually a power she can count on being unlucky)
 - Does not remember name
 - Hunted by a slow moving immortal snail that kills her if it touches her.
 - She feels the pain she inflicts on others
-- Her left arm is an independent entity
+- Phantom limb syndrome
 - lactose intolerant
-- Every new moon, she is brought to a pocket dimension where she must fight the spirits of those she has slain.
-- Gravity is doubled twice (she has two stacking curses that double gravity, together they quadruple gravity)
+- Gravity is doubled twice 
+- Many more oddly specific and annoying curses
 
 # [[Cognivore]]
 Nightjar hides her face for a good reason. Somewhere along the way of becoming a monster she developed into a cognitive hazard, specifically a cognivore.
@@ -103,12 +102,9 @@ Those who see her face, and stare into her eyes have a 'reflection' of nightjar 
 While this is extremely useful, (for her being a tutorial agent), it can be an OPsec hazard. Since her enemies can extract information from this reflection. Also she has good reason to not trust her cognivore reflections, a more sophisticated cognivore could likely unify them to work together, but she is a disciple of the god of envy. 
 
 # Shadow Magic
-Nightjar practices a unique form of shadow magic. She can bend, manipulate, create, and hide in shadows. She can hide a number of things within a shadow meaning, her cloak is sort of a storehouse. 
+Nightjar practices a unique form of illusionary shadow magic. She can bend, manipulate, create, and hide in shadows. She can hide a number of things within a shadow meaning, her cloak is sort of a storehouse. 
 
-She can hide in shadows, jump from shadow to shadow. If she jumps into your shadow, she can control you.
-
-Sort of like alucard from hellsing ultimate, she can become a large formless shadow beast.
-
+She can hide in shadows, jump from shadow to shadow.
 
 # Relationships
 **Magistum**
