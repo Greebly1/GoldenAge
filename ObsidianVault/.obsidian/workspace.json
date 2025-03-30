@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "0782903a8ab68c7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c70146d56fc087a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e95a55bf6b24256",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documents/Nightjar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nightjar"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d9d72cf53aa534d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c69983d0c6776b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documents/Nightjar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nightjar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d73d0243ca2f550c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e2bdd8997467870",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfa1645dd88d4a3b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5b9b82c18a5ddc31",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e4c82ef77226a0cd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ab346a9ab4ca2f44",
+    "type": "split",
+    "children": [
+      {
+        "id": "93deba183b07a9b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86946c355784f05c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Owl.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Owl"
+            }
+          },
+          {
+            "id": "2b51654d95b9f8d8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Owl.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Owl"
+            }
+          },
+          {
+            "id": "e805e7079a814c32",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "78cd8d7099458125",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Owl.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Owl"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4e95a55bf6b24256",
+  "lastOpenFiles": [
+    "NoCommit/Enchantments.md",
+    "NoCommit",
+    "NoCommit/Leroy.md",
+    "Untitled.md",
+    "Documents/Nightjar.md",
+    "Nightjar.8560.pur",
+    "Documents/A Contemplation on Curses.md",
+    "Documents/Nightjar.pur",
+    "Pocket Dimensions.md",
+    "Magic.md",
+    "Documents/Characterizations Brainstorming.md",
+    "Nightjar.4472.pur-journal",
+    "Nightjar.4472.pur",
+    "Nightjar.18472.pur",
+    "Owl.pur",
+    "Owl.7212.pur",
+    "Documents/Untitled",
+    "Documents/Characters"
+  ]
+}
