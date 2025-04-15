@@ -12,19 +12,19 @@ One of the big 3 important characters of the [[Phoenix Lament]] story.
 # Intro
 There are chill winds in the night, refreshing. Where no eyes stare, freeing. 
 The walls of the [[Samrita Claret]] are cold, and the building is asleep. At the peak of its tower you can glimpse her.
-A celestial, cold and all-seeing floats listlessly above the slumbering city, speckled by the twinkling hopes of dreamers. Its light falls on the nightmares that haunt. Its cold is a hot iron.
+A freezing and all-seeing celestial floats listlessly above the slumbering city, speckled by the twinkling hopes of dreamers. Its light falls on the nightmares that haunt. Its cold is a hot iron.
 It is this light she drinks. This refreshing wind, this quite, this peace, this beauty.
-Moonlight rests on her still form, a monster. The cool air rushing past rows of sharp teeth to fill her lungs. A maw that doesn't eat. Many eyes that never blink. Fur, feathers, scales that never feel. Stiff, gangly wings outstretched. The tail, the talons, everything freed from the shadows that bind, now strewn about the floor.
-All of her eyes, massive and unblinking, stare at the moon.
+Moonlight rests on her still form, ~~a beautiful woman~~ a monster. The cool air rushing past rows of sharp teeth to fill her lungs. Her maw that doesn't eat, rarely open. Many eyes that never blink. Fur, feathers, scales that never feel warmth. Stiff, gangly wings outstretched. The tail, the talons, everything freed from the shadows that bind, now strewn about the floor.
+All of her eyes, massive and unblinking, stare at the moon. It warms her.
 The Nightjar.
 
 # Appearance
-Standing at about 6"2'
+Standing at about 6"2', with a pretty slim, lengthy build
 She hides her face under gray wraps and a large gaiter.
 	She wears a cylindrical priest hat (Moodboard --> Boogiepop) adorned with feathers and ornaments. 
-Her hair is black, and braided into many thin strands about shoulder length. The braids are also adorned with metal and feathers and terminate in silver ornaments. Her braids peek our from under the hat, and fall over the gaiter.
-	So all in all, you can only see a thin slit of her face, her eyes. She has at least 5 of them. Whatever her face looks like under the cloth, it is truly monstrous. Where her right eye socket would be, is two diagonal eyes fighting for dominance. Her left eye socket is almost equally malformed between 3 smaller eyes. Her pupils are a magenta blue, and they never move, they never blink. She turns her whole head to look at things, craning her neck like an owl. Sometimes, the whites of her eyes become a black, with gray details.
-A tattered black cloak drapes over her body, hiding her limbs. Thankfully, her body is still humanoid. Inside her cloak, somewhat comedically is about a hundred vials of eye drops. Every 30 seconds she applies them to her eyes.
+Her hair is black, and braided into many thin dreadlocks about shoulder length. The braids are also adorned with metal and feathers and terminate in silver ornaments. Her braids peek out from under the hat, and fall over the gaiter.
+	So all in all, you can only see a thin slit of her face, **her eyes**. She has at least 5 of them. Whatever her face looks like under the cloth, it is hideous. Where her right eye socket would be, is two misshapen diagonal eyes fighting for dominance. Her left eye socket is almost equally malformed between 3 smaller eyes. Her pupils are a magenta blue, and they never move, they never blink. She turns her whole head to look at things, craning her neck like an owl. Oftentimes, the whites of her eyes become black when she is violent.
+A tattered black cloak drapes over her body, hiding her limbs. Thankfully, her body is still *humanoid*. Inside her cloak, somewhat comedically is about a hundred vials of eye drops. Every 30 seconds she applies them to her eyes.
 	This cloak, and her hat, hair, and gaiter are the defining aspects of her silhouette. Dominantly she has a rectangular silhouette, although depending on her pose it is very flowy. (Moodboard --> Ozen, Guts)
 She wears what looks like some sort of gray puffy compression suit reminiscent of a pilot suit. Parts of it are sewn, repaired patchwork. Rips and tears in the fabric, like designer jeans, reveal dark fur trying to escape its prison.
 	The suit is tucked into a pair of fat boots, bulky (moodboard --> Ozen)
