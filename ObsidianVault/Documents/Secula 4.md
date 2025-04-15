@@ -1,0 +1,2 @@
+The great world war comes to an end. The world no longer looks the way it did before, almost apocalyptic in some places. This short era of peace brings about an even greater advance than all others before it.
+An internet is born, utilizing many old communication wires and networks from the war. 

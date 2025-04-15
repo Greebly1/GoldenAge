@@ -1,0 +1,1 @@
+A period of rising tension and growing instability. Disillusionment with the establishment of power leads to chaotic uprisings, independence movements and civil wars based on new socio-economic theories. Ambitious tyrants tighten their grip. Chaos coalesces into the rebirth of a malevolent lich, now equipped with a technologically advanced legion.

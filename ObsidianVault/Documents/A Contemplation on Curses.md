@@ -1,4 +1,5 @@
 This is a short side-story outline intended to develop [[Nightjar]]'s philosophical views on curses. It unravels over a long period of time, with updates to it intermittent.
+Historically it takes place sometime during early [[Secula 3]]
 
 Soundscape --> https://www.youtube.com/watch?v=2N2EeZ3oWrw&list=PL7-dKuFSFO5GlB18rY01ArCBX4tLUfSWw&index=10
 

@@ -8,35 +8,41 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8012474232bffd92",
+            "id": "3e58db532004575e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ObsidianVault/Documents/Nightjar.md",
+                "file": "ObsidianVault/Documents/Timeline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nightjar"
-            }
-          },
-          {
-            "id": "9412c45751b234b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ObsidianVault/Documents/Nightjar.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Nightjar"
+              "title": "Timeline"
             }
           },
           {
             "id": "3e9fb0928578f35c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ObsidianVault/Documents/Secula 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Secula 1"
+            }
+          }
+        ]
+      },
+      {
+        "id": "32ec9781b6f7dc49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27e644c76425d401",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -49,8 +55,7 @@
               "title": "Timeline"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,13 +204,21 @@
       "timelines-revamped:Insert Timeline Event (Frontmatter)": false
     }
   },
-  "active": "503abc819847bfd1",
+  "active": "3e58db532004575e",
   "lastOpenFiles": [
     "ObsidianVault/Documents/Nightjar.md",
     "ObsidianVault/Documents/Timeline.md",
     "ObsidianVault/Documents/A Contemplation on Curses.md",
+    "ObsidianVault/Documents/Secula 3.md",
     "ObsidianVault/Documents/Nightjar.pur",
-    "ObsidianVault/Documents/Timeline.md",
+    "README.md",
+    "ObsidianVault/Documents/Secula 5.md",
+    "ObsidianVault/Documents/Secula 4.md",
+    "ObsidianVault/Documents/Secula 1.md",
+    "ObsidianVault/Documents/Secula 2.md",
+    "ObsidianVault/Documents/Rootspire.md",
+    "Latrican Ascent.md",
+    "The First Winter.md",
     "gitignore.txt",
     "New Text Document.txt"
   ]
