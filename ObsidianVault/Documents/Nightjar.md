@@ -3,7 +3,7 @@ Soundscape https://www.youtube.com/watch?v=jaUqnY8wNMU&list=PL7-dKuFSFO5GlB18rY0
 
 One of the big 3 important characters of the [[Phoenix Lament]] story.
 ## Other Names
-	That Owl
+	Owl
 	Drinks Moonlight
 	Curse Collector
 	Queen/King of Curses
