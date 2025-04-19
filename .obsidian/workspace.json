@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ObsidianVault/Documents/Timeline.md",
+                "file": "ObsidianVault/Documents/Millions Eyes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Timeline"
+              "title": "Millions Eyes"
             }
           },
           {
@@ -199,26 +199,27 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "timelines-revamped:Insert Timeline Event": false,
-      "timelines-revamped:Insert Timeline Event (Frontmatter)": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "503abc819847bfd1",
   "lastOpenFiles": [
+    "ObsidianVault/Documents/MillionsEyes.pur",
+    "ObsidianVault/Documents/MillionsEyes.24828.pur",
     "ObsidianVault/Documents/Nightjar.md",
+    "ObsidianVault/Documents/Millions Eyes.md",
+    "ObsidianVault/Documents/Secula 4.md",
+    "ObsidianVault/Documents/The First Winter.md",
     "ObsidianVault/Documents/Timeline.md",
     "ObsidianVault/Documents/A Contemplation on Curses.md",
     "ObsidianVault/Documents/Secula 3.md",
     "ObsidianVault/Documents/Nightjar.pur",
     "README.md",
     "ObsidianVault/Documents/Secula 5.md",
-    "ObsidianVault/Documents/Secula 4.md",
     "ObsidianVault/Documents/Secula 1.md",
     "ObsidianVault/Documents/Secula 2.md",
     "ObsidianVault/Documents/Rootspire.md",
     "ObsidianVault/Documents/Latrican Ascent.md",
-    "ObsidianVault/Documents/The First Winter.md",
     "gitignore.txt",
     "New Text Document.txt"
   ]
