@@ -1,0 +1,3 @@
+Also known as the Magistum secret police. The paladins take orders from the Archmage. Paladins are experienced demonslayers who have developed [[Phantom Eyes]], they work closely with [[The Numa Order]]. Their goals involve global stability, often dealing with the Phant, and the godlike dieties that reside in it.
+Like an SCP foundation, the Paladins quarantine anomalous 'cursed' entities and monsters. If they suspect you have a curse, they will arrest you, research you, and either; release you, kill you, or recruit you. 
+In a world of warm chaos they represent cold order.
