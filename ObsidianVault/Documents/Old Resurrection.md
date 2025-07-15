@@ -1,0 +1,4 @@
+Long before the Magistum. Resurrections were performed as miracles by a few gifted sorcerers. They were heralded as divine and given high honors to perform their miracles. However it was not perfect. Resurrecting with old magic is **no different from necromancy**. 
+Nobody brought back to life this way is exactly as they were. Soldiers who would die over and over again would start to lose their minds and slowly change. Without proper council and countermeasures, repeated revival this way leads to [[Demonification]]
+Only the best resurrectionists could perform resurrection well enough to be considered a miracle instead of a curse.
+Since mages who could do this were hard to come by, it was pretty expensive to perform. Only so many people could be revived each day, and if that number was pushed (and it was during wars), then sloppy work would cause demonification.

@@ -1,57 +1,20 @@
 {
   "main": {
-    "id": "0782903a8ab68c7c",
+    "id": "4dec3baebfde787e",
     "type": "split",
     "children": [
       {
-        "id": "c70146d56fc087a4",
+        "id": "cae6b1424ed45621",
         "type": "tabs",
         "children": [
           {
-            "id": "2c3810cf386d1d86",
+            "id": "36a81f1ca021de5f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documents/Resurrection System.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Resurrection System"
-            }
-          },
-          {
-            "id": "5fcc5eae59a5bc68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Brainstorm TODO.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Brainstorm TODO"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "fe0ebc85d9ce9970",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4e95a55bf6b24256",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "pinned": true,
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -60,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d73d0243ca2f550c",
+    "id": "4ef3124bc72e78d9",
     "type": "split",
     "children": [
       {
-        "id": "5e2bdd8997467870",
+        "id": "3c84ef84fe01ba96",
         "type": "tabs",
         "children": [
           {
-            "id": "bfa1645dd88d4a3b",
+            "id": "92d9acdc6c6e4e8b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -81,7 +44,7 @@
             }
           },
           {
-            "id": "5b9b82c18a5ddc31",
+            "id": "a223174cc0fbc247",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -98,7 +61,7 @@
             }
           },
           {
-            "id": "e4c82ef77226a0cd",
+            "id": "dba23f45ac86d705",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -114,20 +77,19 @@
     "width": 300
   },
   "right": {
-    "id": "ab346a9ab4ca2f44",
+    "id": "9e755b872a70d996",
     "type": "split",
     "children": [
       {
-        "id": "93deba183b07a9b0",
+        "id": "7131beb9bdf30824",
         "type": "tabs",
         "children": [
           {
-            "id": "86946c355784f05c",
+            "id": "3eebf27cce2eabea",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Owl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,46 +99,49 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Owl"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "2b51654d95b9f8d8",
+            "id": "a8538da8e656ed9c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Owl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Owl"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "e805e7079a814c32",
+            "id": "ee3158c50f771297",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "78cd8d7099458125",
+            "id": "d86218b1509f6b35",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Owl.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Owl"
+              "title": "Outline"
             }
           }
         ]
@@ -188,6 +153,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
@@ -195,44 +161,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5fcc5eae59a5bc68",
-  "lastOpenFiles": [
-    "History of Demonslayers.md",
-    "Brainstorm TODO.md",
-    "Documents/Old Resurrection.md",
-    "Untitled.md",
-    "Documents/Need a name Decree.md",
-    "Documents/Archmage Eternal.md",
-    "Documents/Mania Aurum.md",
-    "Documents/The Visiones Aurum.md",
-    "Documents/The Last Crusade.md",
-    "Documents/Resurrection System.md",
-    "Versus.md",
-    "Documents/Parascars.md",
-    "Documents/History of Ressurrection.md",
-    "Documents/Claret Method.md",
-    "Documents/Thanatite.md",
-    "Phantom Eyes.md",
-    "Documents/Claret Mandate.md",
-    "Unnamed Weapon Type.md",
-    "Documents/Magistum Creation.md",
-    "Documents/Magistum.md",
-    "Documents/Millions Eyes.md",
-    "Documents/Archmage.md",
-    "Documents/Political Structure of the Magistum.md",
-    "Documents/The Senate.md",
-    "Documents/The Delegates.md",
-    "Documents/Magistum Treasury.md",
-    "Documents/Nightjar.pur",
-    "Images/Odin.jpg",
-    "Images",
-    "Image",
-    "New folder",
-    "Documents/Nightjar.20136.pur",
-    "NoCommit",
-    "Nightjar.8560.pur",
-    "Nightjar.4472.pur-journal",
-    "Nightjar.4472.pur",
-    "Nightjar.18472.pur"
-  ]
+  "active": "36a81f1ca021de5f",
+  "lastOpenFiles": []
 }

@@ -11,4 +11,4 @@ Some of the first technologies developed were
 
 This made the Magistum incredibly wealthy, and very powerful since they controlled the distribution of the standard runic language. 
 Soon, the Luminary church was starting to lose their favor as the Magistum grew in influence and a scientific and religious revolution swept through the west. This was the new testament, a position on magic that was not centralized to being controlled by the church. 
-### ![[The Final Crusade]]
+### ![[The Last Crusade]]
